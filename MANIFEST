@@ -1,0 +1,9 @@
+LICENSE
+Makefile.PL
+MANIFEST
+lib/Bundle/Dpchrist.pm
+t/0_compile_modules.t
+t/1_Bundle-Dpchrist.t
+t/9_pod.t
+t/9_prereq.t
+META.yml                                 Module meta-data (added by MakeMaker)
