@@ -1,12 +1,12 @@
 #######################################################################
-# $Id: Dpchrist.pm,v 1.18 2010-11-02 21:52:52 dpchrist Exp $
+# $Id: Dpchrist.pm,v 1.20 2010-11-16 06:32:50 dpchrist Exp $
 #######################################################################
 # package:
 #----------------------------------------------------------------------
 
 package Bundle::Dpchrist;
 
-our $VERSION = sprintf("%d.%03d", q$Revision: 1.18 $ =~ /(\d+)/g);
+our $VERSION = sprintf("%d.%03d", q$Revision: 1.20 $ =~ /(\d+)/g);
 
 1;
 
@@ -21,18 +21,19 @@ Bundle::Dpchrist - David Christensen's Perl modules
 
 =head1 CONTENTS
 
-    Dpchrist::Module			1.018
+    Dpchrist::Module			1.019
 
     Dpchrist::Is			1.017
-    Dpchrist::LangUtil			1.003
+    Dpchrist::LangUtil			1.006
     Dpchrist::Term			1.008
     Dpchrist::Timestamp			1.011
 
     Dpchrist::File::Append		1.026
     Dpchrist::Tag			1.030
 
-    Dpchrist::Debug			1.038
+    Dpchrist::Debug			1.039
 
+    Dpchrist::CGI			1.018
     Dpchrist::Cvs::NerfTags		1.004
     Dpchrist::Directory			1.009
     Dpchrist::File::Find::Duplicates	1.009
