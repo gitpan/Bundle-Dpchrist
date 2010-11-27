@@ -1,12 +1,12 @@
 #######################################################################
-# $Id: Dpchrist.pm,v 1.35 2010-11-27 04:45:20 dpchrist Exp $
+# $Id: Dpchrist.pm,v 1.37 2010-11-27 08:05:47 dpchrist Exp $
 #######################################################################
 # package:
 #----------------------------------------------------------------------
 
 package Bundle::Dpchrist;
 
-our $VERSION = sprintf("%d.%03d", q$Revision: 1.35 $ =~ /(\d+)/g);
+our $VERSION = sprintf("%d.%03d", q$Revision: 1.37 $ =~ /(\d+)/g);
 
 1;
 
@@ -21,31 +21,31 @@ Bundle::Dpchrist - David Christensen's Perl modules
 
 =head1 CONTENTS
 
-    Dpchrist::Module			1.025
+    Dpchrist::Module			1.026
 
-    Dpchrist::Is			1.026
-    Dpchrist::LangUtil			1.012
-    Dpchrist::Term			1.012
-    Dpchrist::Timestamp			1.015
+    Dpchrist::Is			1.027
+    Dpchrist::LangUtil			1.013
+    Dpchrist::Term			1.013
+    Dpchrist::Timestamp			1.016
 
-    Dpchrist::File::Append		1.030
-    Dpchrist::Tag			1.034
+    Dpchrist::File::Append		1.031
+    Dpchrist::Tag			1.035
 
-    Dpchrist::Debug			1.043
+    Dpchrist::Debug			1.044
 
-    Dpchrist::CGI			1.045
-    Dpchrist::Cvs::NerfTags		1.009
-    Dpchrist::Directory			1.013
-    Dpchrist::File::Find::Duplicates	1.013
-    Dpchrist::File::LimitPath		1.032
-    Dpchrist::File::Newest		1.027
-    Dpchrist::Scripts			1.010
-    Dpchrist::TriangularNumber		1.019
+    Dpchrist::CGI			1.046
+    Dpchrist::Cvs::NerfTags		1.010
+    Dpchrist::Directory			1.014
+    Dpchrist::File::Find::Duplicates	1.014
+    Dpchrist::File::LimitPath		1.033
+    Dpchrist::File::Newest		1.028
+    Dpchrist::Scripts			1.012
+    Dpchrist::TriangularNumber		1.020
 
 
 =head1 DESCRIPTION
 
-This documentation describes module revision $Revision: 1.35 $.
+This documentation describes module revision $Revision: 1.37 $.
 
 
 This is alpha test level software
