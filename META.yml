@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Bundle-Dpchrist
-version:            1.037
+version:            1.039
 abstract:           David Christensen's Perl modules
 author:
     - David Paul Christensen <dpchrist@holgerdanske.com>
@@ -10,11 +10,7 @@ configure_requires:
     ExtUtils::MakeMaker:  0
 build_requires:
     ExtUtils::MakeMaker:  0
-requires:
-    Getopt::Long:  0
-    Pod::Html:     0
-    Pod::Text:     0
-    Pod::Usage:    0
+requires:  {}
 no_index:
     directory:
         - t
