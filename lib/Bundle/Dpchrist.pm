@@ -1,12 +1,12 @@
 #######################################################################
-# $Id: Dpchrist.pm,v 1.41 2010-12-02 17:42:57 dpchrist Exp $
+# $Id: Dpchrist.pm,v 1.43 2010-12-02 21:42:19 dpchrist Exp $
 #######################################################################
 # package:
 #----------------------------------------------------------------------
 
 package Bundle::Dpchrist;
 
-our $VERSION = sprintf("%d.%03d", q$Revision: 1.41 $ =~ /(\d+)/g);
+our $VERSION = sprintf("%d.%03d", q$Revision: 1.43 $ =~ /(\d+)/g);
 
 1;
 
@@ -21,8 +21,8 @@ Bundle::Dpchrist - David Christensen's Perl modules
 
 =head1 CONTENTS
 
-    Dpchrist::ExtUtils::MakeMaker	1.013
-    Dpchrist::Test			1.006
+    Dpchrist::ExtUtils::MakeMaker	1.014
+    Dpchrist::Test			1.007
 
     Dpchrist::Is			1.028
     Dpchrist::LangUtil			1.014
@@ -46,7 +46,7 @@ Bundle::Dpchrist - David Christensen's Perl modules
 
 =head1 DESCRIPTION
 
-This documentation describes module revision $Revision: 1.41 $.
+This documentation describes module revision $Revision: 1.43 $.
 
 
 This is alpha test level software
@@ -65,13 +65,6 @@ Old school:
 Complete:
 
     $ cpan Bundle::Dpchrist
-
-The following warning may be safely ignored:
-
-    Can't locate Dpchrist/Module/MakefilePL.pm in @INC (@INC contains: /
-    etc/perl /usr/local/lib/perl/5.10.0 /usr/local/share/perl/5.10.0 /us
-    r/lib/perl5 /usr/share/perl5 /usr/lib/perl/5.10 /usr/share/perl/5.10
-    /usr/local/lib/site_perl .) at Makefile.PL line 22.
 
 
 =head2 PREREQUISITES
