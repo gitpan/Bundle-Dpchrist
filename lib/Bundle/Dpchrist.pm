@@ -1,12 +1,12 @@
 #######################################################################
-# $Id: Dpchrist.pm,v 1.40 2010-12-02 03:54:39 dpchrist Exp $
+# $Id: Dpchrist.pm,v 1.41 2010-12-02 17:42:57 dpchrist Exp $
 #######################################################################
 # package:
 #----------------------------------------------------------------------
 
 package Bundle::Dpchrist;
 
-our $VERSION = sprintf("%d.%03d", q$Revision: 1.40 $ =~ /(\d+)/g);
+our $VERSION = sprintf("%d.%03d", q$Revision: 1.41 $ =~ /(\d+)/g);
 
 1;
 
@@ -21,7 +21,7 @@ Bundle::Dpchrist - David Christensen's Perl modules
 
 =head1 CONTENTS
 
-    Dpchrist::ExtUtils::MakeMaker	1.012
+    Dpchrist::ExtUtils::MakeMaker	1.013
     Dpchrist::Test			1.006
 
     Dpchrist::Is			1.028
@@ -46,7 +46,7 @@ Bundle::Dpchrist - David Christensen's Perl modules
 
 =head1 DESCRIPTION
 
-This documentation describes module revision $Revision: 1.40 $.
+This documentation describes module revision $Revision: 1.41 $.
 
 
 This is alpha test level software
