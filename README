@@ -2,7 +2,7 @@ NAME
     Bundle::Dpchrist - David Christensen's Perl modules
 
 CONTENTS
-        Dpchrist::ExtUtils::MakeMaker       1.011
+        Dpchrist::ExtUtils::MakeMaker       1.012
         Dpchrist::Test                      1.006
 
         Dpchrist::Is                        1.028
@@ -25,7 +25,7 @@ CONTENTS
         Dpchrist::TriangularNumber          1.022
 
 DESCRIPTION
-    This documentation describes module revision $Revision: 1.39 $.
+    This documentation describes module revision $Revision: 1.40 $.
 
     This is alpha test level software and may change or disappear at any
     time.
