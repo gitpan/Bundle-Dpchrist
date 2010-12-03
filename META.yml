@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Bundle-Dpchrist
-version:            1.043
+version:            1.044
 abstract:           David Christensen's Perl modules
 author:
     - David Paul Christensen <dpchrist@holgerdanske.com>
@@ -11,8 +11,9 @@ configure_requires:
 build_requires:
     ExtUtils::MakeMaker:  0
 requires:
-    Dpchrist::ExtUtils::MakeMaker:  1.013
+    Dpchrist::ExtUtils::MakeMaker:  1.015
     ExtUtils::MakeMaker:  0
+    Test::Compile:        0
     Test::Manifest:       0
     Test::More:           0
     Test::Pod:            0
