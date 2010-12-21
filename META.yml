@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Bundle-Dpchrist
-version:            1.047
+version:            1.050
 abstract:           David Christensen's Perl modules
 author:
     - David Paul Christensen <dpchrist@holgerdanske.com>

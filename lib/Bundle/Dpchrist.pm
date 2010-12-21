@@ -1,12 +1,12 @@
 #######################################################################
-# $Id: Dpchrist.pm,v 1.47 2010-12-15 01:26:57 dpchrist Exp $
+# $Id: Dpchrist.pm,v 1.50 2010-12-21 05:22:08 dpchrist Exp $
 #######################################################################
 # package:
 #----------------------------------------------------------------------
 
 package Bundle::Dpchrist;
 
-our $VERSION = sprintf("%d.%03d", q$Revision: 1.47 $ =~ /(\d+)/g);
+our $VERSION = sprintf("%d.%03d", q$Revision: 1.50 $ =~ /(\d+)/g);
 
 1;
 
@@ -21,32 +21,32 @@ Bundle::Dpchrist - David Christensen's Perl modules
 
 =head1 CONTENTS
 
-    Dpchrist::ExtUtils::MakeMaker	1.023
-    Dpchrist::Test			1.010
+    Dpchrist::ExtUtils::MakeMaker	1.027
+    Dpchrist::Test			1.011
 
-    Dpchrist::Is			1.031
-    Dpchrist::LangUtil			1.018
-    Dpchrist::Term			1.019
+    Dpchrist::Is			1.032
+    Dpchrist::LangUtil			1.019
+    Dpchrist::Term			1.021
 
-    Dpchrist::Timestamp			1.021
-    Dpchrist::File::Append		1.035
-    Dpchrist::Tag			1.040
+    Dpchrist::File::Append		1.036
+    Dpchrist::Tag			1.041
+    Dpchrist::Timestamp			1.022
 
-    Dpchrist::Debug			1.049
+    Dpchrist::Debug			1.050
 
-    Dpchrist::CGI			1.062
-    Dpchrist::Cvs::NerfTags		1.015
-    Dpchrist::Directory			1.019
-    Dpchrist::File::Find::Duplicates	1.018
-    Dpchrist::File::LimitPath		1.037
-    Dpchrist::File::Newest		1.032
-    Dpchrist::Scripts			1.018
-    Dpchrist::TriangularNumber		1.025
+    Dpchrist::CGI			1.068
+    Dpchrist::CvsUtil			1.017
+    Dpchrist::Directory			1.020
+    Dpchrist::File::Find::Duplicates	1.019
+    Dpchrist::File::LimitPath		1.038
+    Dpchrist::File::Newest		1.033
+    Dpchrist::Scripts			1.019
+    Dpchrist::TriangularNumber		1.026
 
 
 =head1 DESCRIPTION
 
-This documentation describes module revision $Revision: 1.47 $.
+This documentation describes module revision $Revision: 1.50 $.
 
 
 This is alpha test level software
